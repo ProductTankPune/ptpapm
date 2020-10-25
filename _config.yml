@@ -1,0 +1,12 @@
+# Site settings
+title:"Product Tank Pune's APM Program"
+email:
+description: "A 6 month full-time program where you will learn the craft of product management by working with experienced product managers at renowned companies."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
